@@ -13,7 +13,7 @@ Minha missão? Aplicar meu conhecimento em redes e cibersegurança para fortalec
 
 ## Qualificações Reluzentes:
 
-  Certificações de Destaque: CCNA: Introduction to Networks, Cybersecurity Essentials pela Cisco, Fortinet Certified Fundamentals Cybersecurity, NSE 1 e NSE 2 pela Fortinet. Em busca de criar um perfil  com uma bagagem  de certificados que falam por si só!
+  Certificações de Destaque: CCNA: Introduction to Networks, Cybersecurity Essentials pela Cisco, Fortinet Certified Fundamentals Cybersecurity, NSE 1 e NSE 2 pela Fortinet. Em busca de criar um perfil  com uma bagagem  de certificados que falará por si só!
   Expertise Técnica: Reparos em Computadores (SENAI-SP), conhecimento avançado em SQL, e uma base sólida em inglês técnico.
 
 ## Paixão por Aprender:
