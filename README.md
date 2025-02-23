@@ -4,7 +4,7 @@
 Sou formado Em Tecnico de Redes de computadores pela FIAP, atualmete cursando Segurana da Infromação na Fatec São Caetano do Sul.
 
 ## Apresentação:
-Olá! Sou Jhonata da Rocha de Oliveira, um entusiasta de Tecnologia da Informação e apaixonado por Segurança da Informação, atualmente buscando oportunidades dinâmicas e desafiadoras na Zona Leste de São Paulo. 
+Olá! Sou Jhonata, um entusiasta de Tecnologia da Informação e apaixonado por Segurança da Informação, atualmente buscando oportunidades dinâmicas e desafiadoras na Zona Leste de São Paulo. 
 Minha missão? Aplicar meu conhecimento em redes e cibersegurança para fortalecer o DNA tecnológico da sua empresa.
 
 ## Diferenciais:
@@ -14,7 +14,7 @@ Minha missão? Aplicar meu conhecimento em redes e cibersegurança para fortalec
 ## Qualificações Reluzentes:
 
   Certificações de Destaque: CCNA: Introduction to Networks, Cybersecurity Essentials pela Cisco, Fortinet Certified Fundamentals Cybersecurity, NSE 1 e NSE 2 pela Fortinet. Em busca de criar um perfil  com uma bagagem  de certificados que falará por si só!
-  Expertise Técnica: Reparos em Computadores (SENAI-SP), conhecimento avançado em SQL, e uma base sólida em inglês técnico.
+  Expertise Técnica: Reparos em Computadores (SENAI-SP), conhecimento em SQL, e uma base sólida em inglês técnico.
 
 ## Paixão por Aprender:
 
