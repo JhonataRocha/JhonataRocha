@@ -24,11 +24,6 @@ Minha missão? Aplicar meu conhecimento em redes e cibersegurança para fortalec
 
 **Aprendizado Constante:** Estou comprometido em evoluir e explorar novas ferramentas ao longo de 2024. Estou atualmente focado no desenvolvimento de projetos que demonstram os conhecimentos adquiridos durante meus cursos, especialmente no campo de redes e tecnologia da informação. Estes projetos servem não apenas como uma forma de aplicar o que aprendi, mas também como uma oportunidade para expandir meu conhecimento e habilidades em áreas específicas. Mal posso esperar para compartilhar o progresso desses projetos e as lições aprendidas ao longo do caminho!
 
-
-## Encerramento Poderoso:
-Estou pronto para ser a peça que completa o quebra-cabeça tecnológico da sua equipe. Se você busca não apenas um profissional, mas alguém dedicado a fazer a diferença, estou pronto para embarcar nessa jornada com vocês. Vamos construir o futuro juntos!
-- Interesses em redes de computadores, infraestrutura, porjetos, ética hacker, pesquisa em segurança, pentesting e governança de TI.
-
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatarocha/)
